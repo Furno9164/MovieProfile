@@ -1,6 +1,7 @@
 /*
 Author : Arnav Chavan
 Date : 11/19/2021
+Merge change from dev to master
 */
 const API_KEY = 'api_key=16e94afbdabf5c00e7a7b64194bb91a5';
 const BASE_URL = 'https://api.themoviedb.org/3'
